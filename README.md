@@ -42,3 +42,7 @@ Nigeria’s CO₂ emissions are expected to decline slowly if current policies c
 ## References
 - World Bank Open Data – CO₂ Emissions per capita
 - United Nations SDG13 – Climate Action
+
+## 📎 Google Colab Notebook
+You can view and run this project on Colab here:  
+👉 [Open in Colab] https://colab.research.google.com/drive/1M1YXuMOTKXwtWoWTH0xu-8rPyTCuonFa?usp=sharing
